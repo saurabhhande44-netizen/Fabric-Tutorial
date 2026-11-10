@@ -1,46 +1,57 @@
 [
   {
     "key": "AdventureWorks_Calendar.csv",
-    "value": "Calendar and date dimension data for the AdventureWorks dataset."
+    "value": "Calendar and date dimension data for the AdventureWorks dataset.",
+    "url": "https://github.com/saurabhhande44-netizen/Fabric-Tutorial/blob/main/Data/AdventureWorks_Calendar.csv"
   },
   {
     "key": "AdventureWorks_Customers.csv",
-    "value": "Customer profile and demographic data."
+    "value": "Customer profile and demographic data.",
+    "url": "https://github.com/saurabhhande44-netizen/Fabric-Tutorial/blob/main/Data/AdventureWorks_Customers.csv"
   },
   {
     "key": "AdventureWorks_Product_Categories.csv",
-    "value": "Product category lookup data."
+    "value": "Product category lookup data.",
+    "url": "https://github.com/saurabhhande44-netizen/Fabric-Tutorial/blob/main/Data/AdventureWorks_Product_Categories.csv"
   },
   {
     "key": "AdventureWorks_Product_Subcategories.csv",
-    "value": "Product subcategory lookup data, associated with product categories."
+    "value": "Product subcategory lookup data, associated with product categories.",
+    "url": "https://github.com/saurabhhande44-netizen/Fabric-Tutorial/blob/main/Data/AdventureWorks_Product_Subcategories.csv"
   },
   {
     "key": "AdventureWorks_Products.csv",
-    "value": "Product catalog data, including product attributes and categorization."
+    "value": "Product catalog data, including product attributes and categorization.",
+    "url": "https://github.com/saurabhhande44-netizen/Fabric-Tutorial/blob/main/Data/AdventureWorks_Products.csv"
   },
   {
     "key": "AdventureWorks_Returns.csv",
-    "value": "Product return records."
+    "value": "Product return records.",
+    "url": "https://github.com/saurabhhande44-netizen/Fabric-Tutorial/blob/main/Data/AdventureWorks_Returns.csv"
   },
   {
     "key": "AdventureWorks_Sales_2015.csv",
-    "value": "Sales transaction data for 2015."
+    "value": "Sales transaction data for 2015.",
+    "url": "https://github.com/saurabhhande44-netizen/Fabric-Tutorial/blob/main/Data/AdventureWorks_Sales_2015.csv"
   },
   {
     "key": "AdventureWorks_Sales_2016.csv",
-    "value": "Sales transaction data for 2016."
+    "value": "Sales transaction data for 2016.",
+    "url": "https://github.com/saurabhhande44-netizen/Fabric-Tutorial/blob/main/Data/AdventureWorks_Sales_2016.csv"
   },
   {
     "key": "AdventureWorks_Sales_2017.csv",
-    "value": "Sales transaction data for 2017."
+    "value": "Sales transaction data for 2017.",
+    "url": "https://github.com/saurabhhande44-netizen/Fabric-Tutorial/blob/main/Data/AdventureWorks_Sales_2017.csv"
   },
   {
     "key": "AdventureWorks_Territories.csv",
-    "value": "Sales territory lookup data."
+    "value": "Sales territory lookup data.",
+    "url": "https://github.com/saurabhhande44-netizen/Fabric-Tutorial/blob/main/Data/AdventureWorks_Territories.csv"
   },
   {
     "key": "Adventures",
-    "value": "Unclassified file in the Data folder; inspect its contents to determine its purpose."
+    "value": "Unclassified file in the Data folder; inspect its contents to determine its purpose.",
+    "url": "https://github.com/saurabhhande44-netizen/Fabric-Tutorial/blob/main/Data/Adventures"
   }
 ]

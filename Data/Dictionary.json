@@ -1,13 +1,46 @@
-{
-  "AdventureWorks_Calendar.csv": "Calendar and date dimension data for the AdventureWorks dataset.",
-  "AdventureWorks_Customers.csv": "Customer profile and demographic data.",
-  "AdventureWorks_Product_Categories.csv": "Product category lookup data.",
-  "AdventureWorks_Product_Subcategories.csv": "Product subcategory lookup data, associated with product categories.",
-  "AdventureWorks_Products.csv": "Product catalog data, including product attributes and categorization.",
-  "AdventureWorks_Returns.csv": "Product return records.",
-  "AdventureWorks_Sales_2015.csv": "Sales transaction data for 2015.",
-  "AdventureWorks_Sales_2016.csv": "Sales transaction data for 2016.",
-  "AdventureWorks_Sales_2017.csv": "Sales transaction data for 2017.",
-  "AdventureWorks_Territories.csv": "Sales territory lookup data.",
-  "Adventures": "Unclassified file in the Data folder; inspect its contents to determine its purpose."
-}
+[
+  {
+    "key": "AdventureWorks_Calendar.csv",
+    "value": "Calendar and date dimension data for the AdventureWorks dataset."
+  },
+  {
+    "key": "AdventureWorks_Customers.csv",
+    "value": "Customer profile and demographic data."
+  },
+  {
+    "key": "AdventureWorks_Product_Categories.csv",
+    "value": "Product category lookup data."
+  },
+  {
+    "key": "AdventureWorks_Product_Subcategories.csv",
+    "value": "Product subcategory lookup data, associated with product categories."
+  },
+  {
+    "key": "AdventureWorks_Products.csv",
+    "value": "Product catalog data, including product attributes and categorization."
+  },
+  {
+    "key": "AdventureWorks_Returns.csv",
+    "value": "Product return records."
+  },
+  {
+    "key": "AdventureWorks_Sales_2015.csv",
+    "value": "Sales transaction data for 2015."
+  },
+  {
+    "key": "AdventureWorks_Sales_2016.csv",
+    "value": "Sales transaction data for 2016."
+  },
+  {
+    "key": "AdventureWorks_Sales_2017.csv",
+    "value": "Sales transaction data for 2017."
+  },
+  {
+    "key": "AdventureWorks_Territories.csv",
+    "value": "Sales territory lookup data."
+  },
+  {
+    "key": "Adventures",
+    "value": "Unclassified file in the Data folder; inspect its contents to determine its purpose."
+  }
+]
